@@ -1,0 +1,1 @@
+# Double generic linked list implementation
